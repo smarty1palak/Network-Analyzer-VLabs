@@ -11,7 +11,7 @@ async def main():
         loop.run_in_executor(
             None, 
             requests.get, 
-            'http://example.org/'
+            'http://cse01-iiith.vlabs.ac.in/exp5/binarySearchTree.html'
         )
         for i in range(200)
     ]

@@ -1,0 +1,10 @@
+cse01-iiith.vlabs.ac.in
+cse19-iiith.vlabs.ac.in
+htv-au.vlabs.ac.in
+vlabs.iitkgp.ernet.in
+iitg.ac.in
+htv-au.vlabs.ac.in
+sm-nitk.vlabs.ac.in
+fm-nitk.vlabs.ac.in
+mm-nitk.vlabs.ac.in
+mdmv-nitk.vlabs.ac.in
