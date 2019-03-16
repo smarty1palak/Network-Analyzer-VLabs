@@ -1,2 +1,8 @@
-# Network-Analyzer-VLabs
-RPi Network Analyser Device for Virtual Labs.
+# Network Analyzer for V-Labs, CSD NITK
+
+A network anaylyzer tool to perform on-site analysis of network performance in handling V-Lab simulations.
+
+# Study
+|Date|Findings  |
+|--|--|
+|  |  |
