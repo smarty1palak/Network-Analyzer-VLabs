@@ -8,7 +8,7 @@ class UserBehavior(TaskSet):
         """ on_stop is called when the TaskSet is stopping """
 
 
-    @task(2)
+    @task(1)
     def index(self):
         self.client.get("/")
 
