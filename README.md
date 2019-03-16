@@ -2,7 +2,4 @@
 
 A network anaylyzer tool to perform on-site analysis of network performance in handling V-Lab simulations.
 
-# Study
-|Date|Findings  |
-|--|--|
-|  |  |
+Progress on Wiki.
