@@ -1,9 +1,5 @@
 from locust import HttpLocust, TaskSet, task
 from locust import events
-from additional_handlers import additional_success_handler, additional_failure_handler
-
-# events.request_success += additional_success_handler
-# events.request_failure += additional_failure_handler
 
 class UserBehavior(TaskSet):
     def on_start(self):
