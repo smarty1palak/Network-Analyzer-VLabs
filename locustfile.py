@@ -13,7 +13,6 @@ class UserBehavior(TaskSet):
         self.client.get("/")
 
 
-
 class WebsiteUser(HttpLocust):
     task_set = UserBehavior
     min_wait = 5000

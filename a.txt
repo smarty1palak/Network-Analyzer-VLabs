@@ -1,0 +1,6 @@
+
+cse01-iiith.vlabs.ac.in : 300 
+
+cse19-iiith.vlabs.ac.in : 250 
+
+htv-au.vlabs.ac.in : 200 
