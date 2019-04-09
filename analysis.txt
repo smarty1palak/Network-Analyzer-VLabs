@@ -14,3 +14,4 @@ sm-nitk.vlabs.ac.in : 250
 fm-nitk.vlabs.ac.in : 250 
 
 mm-nitk.vlabs.ac.in : 250 
+http://cse01-iiith.vlabs.ac.in/exp5/binarySearchTree.html : 400 
