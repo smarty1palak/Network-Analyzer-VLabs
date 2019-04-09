@@ -1,0 +1,17 @@
+
+cse01-iiith.vlabs.ac.in : 250 
+
+cse19-iiith.vlabs.ac.in : 250 
+
+htv-au.vlabs.ac.in : 250 
+vlabs.iitkgp.ernet.in : 400 
+iitg.ac.in : 400 
+
+htv-au.vlabs.ac.in : 250 
+
+sm-nitk.vlabs.ac.in : 250 
+
+fm-nitk.vlabs.ac.in : 250 
+
+mm-nitk.vlabs.ac.in : 250 
+http://cse01-iiith.vlabs.ac.in/exp5/binarySearchTree.html : 400 
